@@ -1,0 +1,8 @@
+PLAY|3|BO|
+MOVE|6|O|1,1|
+MOVE|6|X|1,1|
+MOVE|6|X|1,3|
+DRAW|2|S|
+MOVE|6|X|2,2|
+
+ 
